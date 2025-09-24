@@ -40,12 +40,6 @@
 
 </div>
 
-<div style="float:right" class="HideOnMobile">
-
-<img src="images/avatar_current.png" alt="Avatar" width="160"/>
-
-</div>
-
 
 ### <a name="about"></a> Обо мне
 
@@ -218,3 +212,6 @@ CI,CDL, CDP через TeamCity + nexus
 - поддержка работоспособности ЛВС общежития(сервер ubuntu, свичи dlink и rubitech).  
 - написание и защита дипломного проекта по внедрению SIEM "RSA enVision"  
 
+### <a name="hobbies"></a> Хобби
+
+Бокс, HEMA, параплан, практическая стрельба, мотокросс, виндсерф, вейкборд.
