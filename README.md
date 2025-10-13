@@ -1,8 +1,6 @@
 
 [Дисклеймер](#disclaimer)  
 [Контактные данные](#сontact-details)  
-[Обо мне](#about)  
-[Что я умею](#what-i-can)  
 [Опыт работы](#work-experience)    
     [Главный архитектор решений (ОТП Банк)](#work-experience_step-1)    
     [Главный архитектор решений (Газпромбанк)](#work-experience_step-2)    
@@ -39,21 +37,6 @@
 </ul>
 
 </div>
-
-
-### <a name="about"></a> Обо мне
-
-<div style="float:left">
-
-</div>
-
-
-### <a name="what-i-can"></a> Что я умею
-
-<div style="float:left">
-
-</div>
-
 
 ### <a name="work-experience"></a> Опыт работы
 
@@ -185,9 +168,6 @@ CI,CDL, CDP через TeamCity + nexus
 - установка, обслуживание, поддержка и анализ событий систем безопасности (IDS, IPS, IPC, SIEM)  
 - тестирование и внедрение систем ИБ в компании.  
 </details>
-
-
-### <a name="about-yourself"></a> О себе
 
 #### <a name="about-yourself_education"></a> Образование
 
