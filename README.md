@@ -10,6 +10,7 @@
     [Главный IT инженер (ТФС / СберТех)](#work-experience_step-6)    
     [Разработчик (БИТС)](#work-experience_step-7)    
     [Инженер отдела информационной безопасности (ТБинформ)](#work-experience_step-8)  
+[Образование](#about-yourself_education)    
 [Хобби](#hobbies)  
 
 
@@ -31,7 +32,7 @@
   <li>e-mail: <a href="mailto:sviridov.al.ur@gmail.com">sviridov.al.ur@gmail.com</a></li>
   <li>социальные сети:
     <ul>
-      <li>telegram: <a href="https://t.me/svaur»>svaur</a></li>
+      <li>telegram: <a href="https://t.me/svaur">svaur</a></li>
     </ul>
   </li>
 </ul>
@@ -156,7 +157,7 @@ CI,CDL, CDP через TeamCity + nexus
 
 ---
 
-#### <a name="work-experience_step-8»></a> инженер отдела информационной безопасности (ТБИнформ)
+#### <a name="work-experience_step-8"></a> инженер отдела информационной безопасности (ТБИнформ)
 
 Был ответственен за безопасность рабочих станций и системами управления АЗС. Разворачивал и вводил в эксплуатацию системы SIEM
 
@@ -168,6 +169,8 @@ CI,CDL, CDP через TeamCity + nexus
 - установка, обслуживание, поддержка и анализ событий систем безопасности (IDS, IPS, IPC, SIEM)  
 - тестирование и внедрение систем ИБ в компании.  
 </details>
+
+---
 
 #### <a name="about-yourself_education"></a> Образование
 
@@ -191,6 +194,8 @@ CI,CDL, CDP через TeamCity + nexus
 до сих пор функционируют: asterisk (OpenSuSe), шлюз+фаерволл (ubuntu), vsftp (FreeBSD)  
 - поддержка работоспособности ЛВС общежития(сервер ubuntu, свичи dlink и rubitech).  
 - написание и защита дипломного проекта по внедрению SIEM "RSA enVision"  
+
+---
 
 ### <a name="hobbies"></a> Хобби
 
