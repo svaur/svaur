@@ -2,7 +2,7 @@
 
 **Lead Solutions Architect & Enterprise Architect** · 10+ years in FinTech
 
-**[Download the CV as PDF](./CV_SviridovAlexander.pdf)** — 2 pages, English · last updated 30.10.2026
+**[Download the CV as PDF](./CV_SviridovAlexander.pdf)** — 2 pages, English · **[Резюме на русском (PDF)](./Резюме_СвиридовАлександр.pdf)** · last updated 30.10.2026
 
 - [Disclaimer](#disclaimer)
 - [Contact details](#contact-details)
@@ -263,6 +263,7 @@ Boxing, HEMA, paragliding, practical shooting, motocross, windsurfing, wakeboard
 
 ### <a id="download-cv"></a> Download CV (PDF)
 
-The current version of this CV as a PDF file (2 pages, English):
+The current version of this CV as a PDF file, 2 pages:
 
-**[Download CV_SviridovAlexander.pdf](./CV_SviridovAlexander.pdf)**
+* **[CV_SviridovAlexander.pdf](./CV_SviridovAlexander.pdf)** — English
+* **[Резюме_СвиридовАлександр.pdf](./Резюме_СвиридовАлександр.pdf)** — русская версия
