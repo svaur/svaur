@@ -54,9 +54,9 @@ This CV is also available on
 
 ### <a id="about-me"></a> About me
 
-I specialize in large-scale digital transformation for the banking sector. I drive business value by architecting and delivering resilient, mission-critical systems, with proven expertise in deconstructing legacy monoliths into modern microservices ecosystems — significantly enhancing scalability and reducing time-to-market. I have successfully led multi-team initiatives and built expert engineering teams from the ground up at top-tier financial institutions (Sberbank, VTB, OTP Bank, Gazprombank).
+I specialize in large-scale digital transformation for the banking sector: architecting and delivering resilient, mission-critical systems, and decomposing legacy monoliths into microservices ecosystems — improving scalability and time-to-market. I have led multi-team initiatives and built engineering teams from the ground up at Sberbank, VTB, OTP Bank and Gazprombank.
 
-My background spans system administration, DevOps engineering and architecture of high-load banking systems. That breadth lets me be confident in my team's results and ship well-designed products ahead of deadlines. What matters most to me as a leader is the atmosphere within the team and its focus on results — the main asset of any project is well-matched, reliable people.
+My background spans system administration, DevOps and the architecture of high-load banking systems, which lets me stay confident about my team's results. As a leader I care most about the atmosphere in the team and its focus on results: the main asset of any project is the right people.
 
 Lately my focus has been applied AI in a regulated environment, where the interesting problem is rarely the model: it is deciding what can be automated, what must stay with people, and how to prove both.
 
