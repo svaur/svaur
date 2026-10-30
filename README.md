@@ -245,12 +245,12 @@ Period: 04.2009 — 04.2016
 
 ### <a id="tech-publications"></a> Tech publications
 
-Authored articles on [Habr.com](https://habr.com/ru/users/svaur/articles/) about architecture in FinTech (translated versions: LinkedIn articles).
+Authored articles on [Habr.com](https://habr.com/ru/users/svaur/articles/) about architecture in FinTech (translated versions: [LinkedIn](https://www.linkedin.com/in/svaur/)).
 
-* [Уровни зрелости архитектуры банка. От Дискет до ИИ](https://habr.com/ru/companies/otpbank/articles/1034806/)
+* [Уровни зрелости архитектуры банка. От Дискет до ИИ](https://habr.com/ru/companies/otpbank/articles/1034806/) · [EN](https://www.linkedin.com/pulse/how-bank-built-personal-take-enterprise-architecture-sviridov-6nmcf/)
 * [Как устроен финтех изнутри](https://habr.com/ru/articles/959324/)
-* [PCI DSS глазами архитектора: разбираем кейс передачи карточных данных в ДБО](https://habr.com/ru/companies/otpbank/articles/944970/)
-* [Event-Driven Architecture в высоконагруженном ДБО: наш опыт](https://habr.com/ru/companies/otpbank/articles/943980/)
+* [PCI DSS глазами архитектора: разбираем кейс передачи карточных данных в ДБО](https://habr.com/ru/companies/otpbank/articles/944970/) · [EN](https://www.linkedin.com/pulse/pci-dss-architects-case-study-securely-displaying-card-sviridov-der0f/)
+* [Event-Driven Architecture в высоконагруженном ДБО: наш опыт](https://habr.com/ru/companies/otpbank/articles/943980/) · [EN](https://www.linkedin.com/pulse/breaking-banks-speed-limit-our-6-month-journey-modern-sviridov-ffk5f/)
 
 **All links are collected in the [Telegram channel @fintech_blueprint](https://t.me/fintech_blueprint).**
 
