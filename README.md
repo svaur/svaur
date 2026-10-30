@@ -28,7 +28,7 @@ This CV is also available on
 * [LinkedIn](https://www.linkedin.com/in/svaur/);
 * [Habr Career](https://career.habr.com/svaur);
 * [GitHub](https://github.com/svaur);
-* [Telegram](https://t.me/fintech_blueprint).
+* [Telegram channel](https://t.me/fintech_blueprint).
 
 ### <a id="contact-details"></a> Contact details
 
@@ -41,7 +41,7 @@ This CV is also available on
     <ul>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/svaur/">svaur</a></li>
       <li>GitHub: <a href="https://github.com/svaur">svaur</a></li>
-      <li>Telegram: <a href="https://t.me/fintech_blueprint">fintech_blueprint</a></li>
+      <li>Telegram channel: <a href="https://t.me/fintech_blueprint">fintech_blueprint</a></li>
     </ul>
   </li>
 </ul>
@@ -245,6 +245,8 @@ Authored articles on [Habr.com](https://habr.com/) about architecture in FinTech
 * About RBS in OTPBank
 * About PCI DSS
 * About Bank Architecture
+
+**All links are collected in the [Telegram channel @fintech_blueprint](https://t.me/fintech_blueprint).**
 
 ---
 
