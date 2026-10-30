@@ -58,6 +58,8 @@ I specialize in large-scale digital transformation for the banking sector. I dri
 
 My background spans system administration, DevOps engineering and architecture of high-load banking systems. That breadth lets me be confident in my team's results and ship well-designed products ahead of deadlines. What matters most to me as a leader is the atmosphere within the team and its focus on results — the main asset of any project is well-matched, reliable people.
 
+Lately my focus has been applied AI in a regulated environment, where the interesting problem is rarely the model: it is deciding what can be automated, what must stay with people, and how to prove both.
+
 ### <a id="professional-skills"></a> Professional skills
 
 #### Architecture & Strategy
@@ -71,6 +73,7 @@ My background spans system administration, DevOps engineering and architecture o
 
 * Kubernetes, Docker, OpenShift, AWS
 * Apache Kafka, RabbitMQ, IBM MQ, REST API, SOAP
+* Applied AI/ML: churn-prediction and propensity models, personalized offers, LLM-based document analysis, model integration into banking systems
 
 #### Programming & Databases
 
@@ -92,6 +95,8 @@ Period: 04.2023 — present
 * Led the greenfield implementation of a new internet bank, including vendor selection, end-to-end solution architecture design, and architectural oversight throughout delivery.
 * Design fault-tolerant, geo-distributed solutions with high availability (99.99%) and seamless integration with internal systems.
 * Drive migration of legacy systems to microservices architecture, improving scalability and time-to-market.
+* Brought ML into the SME and corporate segment: churn prediction and personalized marketing offers, embedded into CRM and internet-banking customer journeys.
+* Re-architected the international trade operations (ITO) application journey around LLM-based automatic document analysis — rejection rate down from 20% to 4%, average review time from 6 hours to 15 minutes.
 
 ---
 
