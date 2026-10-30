@@ -1,26 +1,26 @@
 # Alexander Sviridov
 
-**Lead Solutions Architect & Enterprise Architect** · 11 years in FinTech
+**Lead Solutions Architect & Enterprise Architect** · 10+ years in FinTech
 
-**[Download the current CV (PDF)](./CV_SviridovAlexander.pdf)**
+**[Download the CV as PDF](./CV_SviridovAlexander.pdf)** — 2 pages, English · last updated 30.10.2026
 
-[Disclaimer](#disclaimer)  
-[Contact details](#contact-details)  
-[About me](#about-me)  
-[Professional skills](#professional-skills)  
-[Work experience](#work-experience)    
-    [Lead Solution Architect (OTP Bank)](#work-experience_step-1)    
-    [Lead Solution Architect (Gazprombank)](#work-experience_step-2)    
-    [Team Lead / Solution Architect (VTB)](#work-experience_step-3)    
-    [Developer → Solution Architect → Team Lead (Sberbank)](#work-experience_step-4)    
-    [Developer → Information Security Specialist (RSREU / TBInform / 9-Bits)](#work-experience_step-5)  
-[Education](#education)  
-[Tech publications](#tech-publications)  
-[Hobbies](#hobbies)  
-[Download CV (PDF)](#download-cv)  
+- [Disclaimer](#disclaimer)
+- [Contact details](#contact-details)
+- [About me](#about-me)
+- [Professional skills](#professional-skills)
+- [Work experience](#work-experience)
+  - [Lead Solution Architect (OTP Bank)](#work-experience_step-1)
+  - [Lead Solution Architect (Gazprombank)](#work-experience_step-2)
+  - [Team Lead / Solution Architect (VTB)](#work-experience_step-3)
+  - [Developer → Solution Architect → Team Lead (Sberbank)](#work-experience_step-4)
+  - [Developer → Information Security Specialist (RSREU / TBInform / 9-Bits)](#work-experience_step-5)
+- [Education](#education)
+- [Tech publications](#tech-publications)
+- [Hobbies](#hobbies)
+- [Download CV (PDF)](#download-cv)
 
 
-### <a name="disclaimer"></a> Disclaimer
+### <a id="disclaimer"></a> Disclaimer
 
 This CV is also available on
 
@@ -30,13 +30,12 @@ This CV is also available on
 * [GitHub](https://github.com/svaur);
 * [Telegram](https://t.me/fintech_blueprint).
 
-### <a name="contact-details"></a> Contact details
+### <a id="contact-details"></a> Contact details
 
 <div style="float:left">
 
 <ul>
   <li>Full name: Alexander Sviridov</li>
-  <li>Date of birth: 20.08.1990</li>
   <li>E-mail: <a href="mailto:sviridov.al.ur@gmail.com">sviridov.al.ur@gmail.com</a></li>
   <li>Social networks:
     <ul>
@@ -49,15 +48,17 @@ This CV is also available on
 
 </div>
 
+<img src="images/avatar_current.png" alt="Alexander Sviridov" width="160" align="right"/>
+
 <div style="clear:both"></div>
 
-### <a name="about-me"></a> About me
+### <a id="about-me"></a> About me
 
-Specializing in large-scale digital transformation for the banking sector. Drives business value by architecting and delivering resilient, mission-critical systems. Proven expertise in deconstructing legacy monoliths into modern microservices ecosystems, significantly enhancing scalability and reducing time-to-market. Successfully led multi-team initiatives and built expert engineering teams from the ground up at top-tier financial institutions (Sberbank, VTB, OTP Bank, Gazprombank).
+I specialize in large-scale digital transformation for the banking sector. I drive business value by architecting and delivering resilient, mission-critical systems, with proven expertise in deconstructing legacy monoliths into modern microservices ecosystems — significantly enhancing scalability and reducing time-to-market. I have successfully led multi-team initiatives and built expert engineering teams from the ground up at top-tier financial institutions (Sberbank, VTB, OTP Bank, Gazprombank).
 
-I have a broad technical background: over the course of my career I have worked as a system administrator, a DevOps engineer and an architect of high-load banking systems. That experience lets me be confident in my team's results and ship well-designed products ahead of deadlines. What matters most to me as a leader is the atmosphere within the team and its focus on results. The main asset of any project is well-matched, reliable people.
+My background spans system administration, DevOps engineering and architecture of high-load banking systems. That breadth lets me be confident in my team's results and ship well-designed products ahead of deadlines. What matters most to me as a leader is the atmosphere within the team and its focus on results — the main asset of any project is well-matched, reliable people.
 
-### <a name="professional-skills"></a> Professional skills
+### <a id="professional-skills"></a> Professional skills
 
 #### Architecture & Strategy
 
@@ -79,9 +80,9 @@ I have a broad technical background: over the course of my career I have worked 
 * Data Tools: Apache Spark, Hadoop, MinIO, Ceph
 * CI/CD: Jenkins, TeamCity, GitLab CI
 
-### <a name="work-experience"></a> Work experience
+### <a id="work-experience"></a> Work experience
 
-#### <a name="work-experience_step-1"></a> Lead Solution Architect (OTP Bank)
+#### <a id="work-experience_step-1"></a> Lead Solution Architect (OTP Bank)
 
 Architecture for the medium, small and corporate business segment.
 
@@ -94,21 +95,21 @@ Period: 04.2023 — present
 
 ---
 
-#### <a name="work-experience_step-2"></a> Lead Solution Architect (Gazprombank)
+#### <a id="work-experience_step-2"></a> Lead Solution Architect (Gazprombank)
 
 Architecture for the medium, small and corporate business segment.
 
 Period: 06.2022 — 04.2023
 
-* Enforce bank-wide architectural standards and apply TOGAF for governance and security issue resolution.
-* Design architecture for new credit products; led implementation of a blockchain-based product.
+* Enforced bank-wide architectural standards and applied TOGAF for governance and security issue resolution.
+* Designed architecture for new credit products; led implementation of a blockchain-based product.
 * Introduced Redis and MinIO to improve performance and object storage.
-* Lead migration of microservices to OpenShift and redesign into service mesh.
-* Manage development and production deployment for 10 SME products.
+* Led migration of microservices to OpenShift and redesigned them into a service mesh.
+* Managed development and production deployment for 10 SME products.
 
 ---
 
-#### <a name="work-experience_step-3"></a> Team Lead / Solution Architect (VTB)
+#### <a id="work-experience_step-3"></a> Team Lead / Solution Architect (VTB)
 
 Development of term deposit products for the medium and small business segment.
 
@@ -119,7 +120,8 @@ Period: 12.2020 — 06.2022
 * Introduced CI/CD and Agile practices (TeamCity, Nexus, Bitbucket, SonarQube) to accelerate delivery.
 * Led a cross-functional team of 15 engineers, combining architectural governance with hands-on technical leadership; delivered the first release in five months, one month ahead of schedule.
 
-<details><summary markdown="span">More details</summary>
+<details markdown="1">
+<summary>More details</summary>
 
 The analytics, development and testing process was established in the shortest possible time in a team assembled from scratch. Front-end, mobile (Android, iOS) and back-end were developed and delivered to production, with the whole scope covered by automated tests. Full migration of users to the product was completed, migration to a new core banking system was performed, and the rollout to the bank's employee channel was finished.
 
@@ -131,18 +133,19 @@ Team size: 15 people.
 
 ---
 
-#### <a name="work-experience_step-4"></a> Developer → Solution Architect → Team Lead (Sberbank)
+#### <a id="work-experience_step-4"></a> Developer → Solution Architect → Team Lead (Sberbank)
 
 Lending products and integration libraries for the bank's credit applications.
 
 Period: 04.2016 — 12.2020
 
 * Designed end-to-end architecture for a bank loan application (offline POS credit products), including fault-tolerant integration with core banking systems and PCI DSS processing; led the successful market launch.
-* Architected an integration library embedded into microservices, standardising message queue/topic connectivity and serialisation/deserialisation.
+* Architected an integration library embedded into microservices, standardizing message queue/topic connectivity and serialization/deserialization.
 * Introduced Agile and DevOps practices (GitFlow, CI/CD, automated testing), achieving a 10x reduction in release defects.
 * Led cross-functional teams and contributed to high-load integration systems based on Apache Camel, Kafka and IBM MQ.
 
-<details><summary markdown="span">More details</summary>
+<details markdown="1">
+<summary>More details</summary>
 
 **Developer (2016–2018)** — a system for inter-segment file transfer.
 
@@ -166,9 +169,9 @@ Period: 04.2016 — 12.2020
 
 ---
 
-#### <a name="work-experience_step-5"></a> Developer → Information Security Specialist (RSREU / TBInform / 9-Bits)
+#### <a id="work-experience_step-5"></a> Developer → Information Security Specialist (RSREU / TBInform / 9-Bits)
 
-Work at the university and in a small organisation: tasks ranging from user support to system architecture and DevOps.
+Work at the university and in a small organization: tasks ranging from user support to system architecture and DevOps.
 
 Period: 04.2009 — 04.2016
 
@@ -176,7 +179,8 @@ Period: 04.2009 — 04.2016
 * Administered cloud infrastructure (AWS) and automated deployments using Jenkins and Puppet.
 * Conducted security analysis and developed a processing protocol.
 
-<details><summary markdown="span">More details</summary>
+<details markdown="1">
+<summary>More details</summary>
 
 **RSREU — assistant at the Information Security department.** Lectures, labs and exercises, curriculum development; delivered courses on Oracle Siebel CRM.
 
@@ -200,7 +204,7 @@ Period: 04.2009 — 04.2016
 
 ---
 
-### <a name="education"></a> Education
+### <a id="education"></a> Education
 
 * 2007 – 2013:
     * University: Ryazan State Radio Engineering University (RSREU), Ryazan, Russia;
@@ -208,7 +212,8 @@ Period: 04.2009 — 04.2016
     * Department: Information Security;
     * Diploma thesis: Implementation of "RSA enVision" in TBInform.
 
-<details><summary markdown="span">More details</summary>
+<details markdown="1">
+<summary>More details</summary>
 
 **Teaching**
 
@@ -233,7 +238,7 @@ Period: 04.2009 — 04.2016
 
 ---
 
-### <a name="tech-publications"></a> Tech publications
+### <a id="tech-publications"></a> Tech publications
 
 Authored articles on [Habr.com](https://habr.com/) about architecture in FinTech (translated versions: LinkedIn articles).
 
@@ -243,13 +248,13 @@ Authored articles on [Habr.com](https://habr.com/) about architecture in FinTech
 
 ---
 
-### <a name="hobbies"></a> Hobbies
+### <a id="hobbies"></a> Hobbies
 
 Boxing, HEMA, paragliding, practical shooting, motocross, windsurfing, wakeboarding.
 
 ---
 
-### <a name="download-cv"></a> Download CV (PDF)
+### <a id="download-cv"></a> Download CV (PDF)
 
 The current version of this CV as a PDF file (2 pages, English):
 
