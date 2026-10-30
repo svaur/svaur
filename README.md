@@ -1,202 +1,256 @@
+# Alexander Sviridov
 
-[Дисклеймер](#disclaimer)  
-[Контактные данные](#сontact-details)  
-[Опыт работы](#work-experience)    
-    [Главный архитектор решений (ОТП Банк)](#work-experience_step-1)    
-    [Главный архитектор решений (Газпромбанк)](#work-experience_step-2)    
-    [Руководитель группы разработки (ПАО ВТБ)](#work-experience_step-3)    
-    [Team Lead(ЕФС / СберТех)](#work-experience_step-4)    
-    [Team Lead/SolutionArchitect(ЕФС / СберТех)](#work-experience_step-5)    
-    [Главный IT инженер (ТФС / СберТех)](#work-experience_step-6)    
-    [Разработчик (БИТС)](#work-experience_step-7)    
-    [Инженер отдела информационной безопасности (ТБинформ)](#work-experience_step-8)  
-[Образование](#about-yourself_education)    
-[Хобби](#hobbies)  
+**Lead Solutions Architect & Enterprise Architect** · 11 years in FinTech
+
+**[Download the current CV (PDF)](./CV_SviridovAlexander.pdf)**
+
+[Disclaimer](#disclaimer)  
+[Contact details](#contact-details)  
+[About me](#about-me)  
+[Professional skills](#professional-skills)  
+[Work experience](#work-experience)    
+    [Lead Solution Architect (OTP Bank)](#work-experience_step-1)    
+    [Lead Solution Architect (Gazprombank)](#work-experience_step-2)    
+    [Team Lead / Solution Architect (VTB)](#work-experience_step-3)    
+    [Developer → Solution Architect → Team Lead (Sberbank)](#work-experience_step-4)    
+    [Developer → Information Security Specialist (RSREU / TBInform / 9-Bits)](#work-experience_step-5)  
+[Education](#education)  
+[Tech publications](#tech-publications)  
+[Hobbies](#hobbies)  
+[Download CV (PDF)](#download-cv)  
 
 
-### <a name="disclaimer"></a> Дисклеймер
+### <a name="disclaimer"></a> Disclaimer
 
-Резюме можно найти так же
+This CV is also available on
 
 * [hh.ru](https://ryazan.hh.ru/applicant/resumes/view?resume=000bc626ff017945270039ed1f6559664a7555);
-* [linked.in](https://www.linkedin.com/in/svaur/);
-* [хабр карьера](https://career.habr.com/svaur).
+* [LinkedIn](https://www.linkedin.com/in/svaur/);
+* [Habr Career](https://career.habr.com/svaur);
+* [GitHub](https://github.com/svaur);
+* [Telegram](https://t.me/fintech_blueprint).
 
-### <a name="сontact-details"></a> Контактные данные
+### <a name="contact-details"></a> Contact details
 
 <div style="float:left">
 
 <ul>
-  <li>ФИО: Свиридов Александр Юрьевич</li>
-  <li>дата рождения: 20.08.1990  </li>
-  <li>e-mail: <a href="mailto:sviridov.al.ur@gmail.com">sviridov.al.ur@gmail.com</a></li>
-  <li>социальные сети:
+  <li>Full name: Alexander Sviridov</li>
+  <li>Date of birth: 20.08.1990</li>
+  <li>E-mail: <a href="mailto:sviridov.al.ur@gmail.com">sviridov.al.ur@gmail.com</a></li>
+  <li>Social networks:
     <ul>
-      <li>telegram: <a href="https://t.me/svaur">svaur</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/svaur/">svaur</a></li>
+      <li>GitHub: <a href="https://github.com/svaur">svaur</a></li>
+      <li>Telegram: <a href="https://t.me/fintech_blueprint">fintech_blueprint</a></li>
     </ul>
   </li>
 </ul>
 
 </div>
 
-### <a name="work-experience"></a> Опыт работы
+<div style="clear:both"></div>
 
-Обладаю огромным техническим кругозором, за более 15 лет практики успел поработать и системным администратором и девопс инженером и архитектором высоконагруженных банковских систем. Весь этот опыт позволяет мне быть уверенным в результате работы моей команды и выпускать качественные и проработанные продукты раньше установленных дедлайнов. Главное для меня как для лидера - атмосфера в команде и нацеленность команды на результат. Главная ценность любого проекта - правильно подобранные и надежные люди.
-#### <a name="work-experience_step-1"></a> Главный архитектор решений (ОТП Банк)
-Проработка архитектуры для сегмента среднего, малого и корпоративного бизнеса.
+### <a name="about-me"></a> About me
 
-Период работы: апрель 2023 — по настоящее время
+Specializing in large-scale digital transformation for the banking sector. Drives business value by architecting and delivering resilient, mission-critical systems. Proven expertise in deconstructing legacy monoliths into modern microservices ecosystems, significantly enhancing scalability and reducing time-to-market. Successfully led multi-team initiatives and built expert engineering teams from the ground up at top-tier financial institutions (Sberbank, VTB, OTP Bank, Gazprombank).
 
----
-#### <a name="work-experience_step-2"></a> Главный архитектор решений (Газпромбанк)
-Проработка архитектуры для сегмента среднего, малого и корпоративного бизнеса.
+I have a broad technical background: over the course of my career I have worked as a system administrator, a DevOps engineer and an architect of high-load banking systems. That experience lets me be confident in my team's results and ship well-designed products ahead of deadlines. What matters most to me as a leader is the atmosphere within the team and its focus on results. The main asset of any project is well-matched, reliable people.
 
-Период работы: май 2022 — апрель 2023
+### <a name="professional-skills"></a> Professional skills
 
----
+#### Architecture & Strategy
 
-#### <a name="work-experience_step-3"></a> Руководитель группы разработки (Банк ВТБ)
+* Architecture from Scratch, Microservices, Service Mesh, Event-Driven Architecture
+* Architecture Frameworks: TOGAF, ATAM, C4 Model, ArchiMate
+* Distributed & High-Load Systems, Fault-Tolerance (99.99%), High Availability
+* SDLC, Agile, Scrum
 
-Разработка продуктов срочного привлечения для сегмента среднего и малого бизнеса.
+#### Technologies & Platforms
 
-Период работы: Декабрь 2020 — май 2022
+* Kubernetes, Docker, OpenShift, AWS
+* Apache Kafka, RabbitMQ, IBM MQ, REST API, SOAP
 
-<details><summary markdown="span">Подробнее</summary>
+#### Programming & Databases
 
-в кратчайшие сроки был выстроен процесс аналитики, разработки и тестирования в команде собранной с нуля. Разработана и внедрена в ПРОД front-end, mobile(android, IOS) и back-end. Весь функционал покрыт автотестами).
-Выход в промышленную эксплуатацию за пять месяцев с момента начала разработки и на месяц (!) раньше срока. Учитывая огромную бюрократию и нестабильность тестовых сред, это на данный момент лучшее достижение во всей моей карьере.  На текущий момент выполнена полная миграция пользователей на продукт, проведена миграция на новую АБС, закончена разработка вывода в канал сотрудников банка. В ближайшее время продукт выходит на этап сопровождения.
+* Languages: Java, Kotlin, Python, Shell
+* Frameworks: Spring (Boot, Cloud, etc.)
+* Databases: PostgreSQL, Redis, Elasticsearch, Oracle DB
+* Data Tools: Apache Spark, Hadoop, MinIO, Ceph
+* CI/CD: Jenkins, TeamCity, GitLab CI
 
-стек
-backend: java 11, Spring, Maven, postgres, redis
-frontend: react, typescript
-mobile: (kotlin, swift)
-Работа по agile (не для галочки, а действительно рабочий процесс). JIRA+ Confluence+TestIT
-CI,CDL, CDP через TeamCity + nexus
-разработка в BitBucket + анализ SonarQube
-архитектура: serviceMash (частично) и микросервисы. интеграции через MQ, kafka, REST, SOAP(да, не без этого)
+### <a name="work-experience"></a> Work experience
 
+#### <a name="work-experience_step-1"></a> Lead Solution Architect (OTP Bank)
 
-размер команды - 15 человек
-</details>
+Architecture for the medium, small and corporate business segment.
 
----
+Period: 04.2023 — present
 
-#### <a name="work-experience_step-4"></a> Product Owner/Team Lead/ ITAL (ЕФС / СберТех)
-
-Разработка и поддержка библиотек для осуществления интеграционных взаимодействий кредитных приложений банка.
-
-Период работы: Июнь 2020 — декабрь 2020
-
-<details><summary markdown="span">Подробнее</summary>
-
-Управление командой (формирование задач, целей, контроль за процессом разработки и полноты решаемых задач), решение архитектурных и инфраструктурных задач. Проведение технических собеседований и формирование команды.
-
-</details>
+* Lead a team of solution architects, providing architectural governance for 20+ systems, including internet banking and CRM.
+* Led the greenfield implementation of a new internet bank, including vendor selection, end-to-end solution architecture design, and architectural oversight throughout delivery.
+* Design fault-tolerant, geo-distributed solutions with high availability (99.99%) and seamless integration with internal systems.
+* Drive migration of legacy systems to microservices architecture, improving scalability and time-to-market.
 
 ---
 
-#### <a name="work-experience_step-5"></a> Team Lead/Solution Architect (ЕФС / СберТех)
+#### <a name="work-experience_step-2"></a> Lead Solution Architect (Gazprombank)
 
-Проект OFFLINE POS. Кредитование через пос терминалы
+Architecture for the medium, small and corporate business segment.
 
-Период работы: Апрель 2018 — июнь 2020
+Period: 06.2022 — 04.2023
 
-<details><summary markdown="span">Подробнее</summary>
-
-Разработка кредитного бизнес приложения банка с нуля до вывода на рынок. Разработка на платформе ЕФС. Разработка интеграции с процессинговыми системами в зоне PCI DSS.
-Личные достижения:
-1) успешный вывод проекта в промышленную эксплуатацию в срок  
-2) построение с нуля процессов в команде (внедрение практик Agile и DevOps), перевод разработки на gitflow  
-3) разработка архитектуры и внедрение части функциональности системы  
-4) формирование эффективных коммуникаций со смежными командами  
-
-Управление двумя командами из 18 человек (формирование бэклога после обсуждения целей с ВП, контроль за выполнением задач, проведение планирования и ретроспектив), решение архитектурных и инфраструктурных вопросов, контроль движения релиза по тестовым стендам, контроль за соблюдением требований ИБ, проведение показов продукта заказчикам.
-
-</details>
+* Enforce bank-wide architectural standards and apply TOGAF for governance and security issue resolution.
+* Design architecture for new credit products; led implementation of a blockchain-based product.
+* Introduced Redis and MinIO to improve performance and object storage.
+* Lead migration of microservices to OpenShift and redesign into service mesh.
+* Manage development and production deployment for 10 SME products.
 
 ---
 
-#### <a name="work-experience_step-6"></a> Java Developer (ТФС / СберТех)
+#### <a name="work-experience_step-3"></a> Team Lead / Solution Architect (VTB)
 
-разработка системы межсегментной передачи файлов.
+Development of term deposit products for the medium and small business segment.
 
-Период работы: Апрель 2016 — апрель 2018
+Period: 12.2020 — 06.2022
 
-<details><summary markdown="span">Подробнее</summary>
-- доработка АС(интеграция, highload) на основе Apache Camel (java8, hazelcast, ceph, IBM MQ, kafka)
-- доработка АС(highload) на основе Apache Camel (java8, hazelcast, spring, js)
-- развертка с нуля DevOps(pipeline, groovy) в отделе на основе Jenkins. Интеграция Jenkins с существующими АС компании (AD, git, BitBucket, Sonar, IBM WAS, IBM MQ, Confluence, Nexus, Oracle Database), сборки по пулреквестам, внедрение метрик Quality Gate, автотестирование, анализ покрытия кода, авторазвертка дистрибутива на стенды, интеграционное тестирование, автоматизация сборок патчей-дистрибутивов, автоматизация раскатки дистрибутивов-патчей на стенды
-- разработка для IBM WebSphere MQ broker (esql), установка и настройка менеджеров, разбор дефектов.
-- администрирование IBM WebSphere application server, IBM WebSphere MQ
-- администрирование rhel 7
+* Designed end-to-end solution architecture from scratch for SME deposit account applications, including high-level design and microservices with service mesh.
+* Defined integration patterns (Kafka, MQ, REST, SOAP) and technology stack (Java 11, Spring, PostgreSQL, Redis, React, Kotlin, Swift).
+* Introduced CI/CD and Agile practices (TeamCity, Nexus, Bitbucket, SonarQube) to accelerate delivery.
+* Led a cross-functional team of 15 engineers, combining architectural governance with hands-on technical leadership; delivered the first release in five months, one month ahead of schedule.
 
-Значимые личные достижения:
-1) уменьшение в 10 раз количества дефектов при прохождении релиза по тестовым средам за счет внедрения DevOps, GitFlow и автотестов при сборке релиза
-2) как team lead (2 человека под руководством) успешно вывел в промышленную эксплуатацию одну из подсистем банка.
-</details>
+<details><summary markdown="span">More details</summary>
 
----
+The analytics, development and testing process was established in the shortest possible time in a team assembled from scratch. Front-end, mobile (Android, iOS) and back-end were developed and delivered to production, with the whole scope covered by automated tests. Full migration of users to the product was completed, migration to a new core banking system was performed, and the rollout to the bank's employee channel was finished.
 
-#### <a name="work-experience_step-7"></a> разработчик (БИТС)
+Stack: Java 11, Spring, Maven, PostgreSQL, Redis; React, TypeScript; Kotlin, Swift; JIRA, Confluence, TestIT; TeamCity, Nexus; Bitbucket, SonarQube. Microservices architecture with a partial service mesh; integrations via MQ, Kafka, REST and SOAP.
 
-работа в небольшой организации (5 человек). Задачи от эникея до проработки архитектуры систем и DevOps
-
-Период работы: февраль 2014 — апрель 2016
-
-<details><summary markdown="span">Подробнее</summary>
-
-- написание скриптов автоматизации на bash, sh, python  
-- написание на jquery интерактивной онлайн игры (slot)  
-- администрирование CentOS, FreeBSD.  
-- работа с amazon AWS (администрирование систем на базе CentOS, установка и настройка систем автосборки (jenkins), Puppet)  
-- разработка (доработка) мобильных приложений для платформ android\iphone на c#, java  
-- реверс протокола qiwi и создание ПО для оплаты услуг компании (для slot игр)  
-- создание простых RESTfull веб сервисов с использованием Spring.  
+Team size: 15 people.
 
 </details>
 
 ---
 
-#### <a name="work-experience_step-8"></a> инженер отдела информационной безопасности (ТБИнформ)
+#### <a name="work-experience_step-4"></a> Developer → Solution Architect → Team Lead (Sberbank)
 
-Был ответственен за безопасность рабочих станций и системами управления АЗС. Разворачивал и вводил в эксплуатацию системы SIEM
+Lending products and integration libraries for the bank's credit applications.
 
-Период работы: Апрель 2012 — февраль 2014
+Period: 04.2016 — 12.2020
 
-<details><summary markdown="span">Подробнее</summary>
+* Designed end-to-end architecture for a bank loan application (offline POS credit products), including fault-tolerant integration with core banking systems and PCI DSS processing; led the successful market launch.
+* Architected an integration library embedded into microservices, standardising message queue/topic connectivity and serialisation/deserialisation.
+* Introduced Agile and DevOps practices (GitFlow, CI/CD, automated testing), achieving a 10x reduction in release defects.
+* Led cross-functional teams and contributed to high-load integration systems based on Apache Camel, Kafka and IBM MQ.
 
-- администрирование ОС на базе windows (XP, 7, 2003, 2008, 2008R2),  
-- установка, обслуживание, поддержка и анализ событий систем безопасности (IDS, IPS, IPC, SIEM)  
-- тестирование и внедрение систем ИБ в компании.  
+<details><summary markdown="span">More details</summary>
+
+**Developer (2016–2018)** — a system for inter-segment file transfer.
+
+* Development and enhancement of high-load integration systems based on Apache Camel (Java 8, Hazelcast, Ceph, IBM MQ, Kafka).
+* Built the department's DevOps pipeline from scratch (Jenkins, Groovy): integration with AD, Git, Bitbucket, Sonar, IBM WAS, IBM MQ, Confluence, Nexus and Oracle Database; pull-request builds, Quality Gate metrics, automated testing, code coverage analysis, automated deployment to test environments, and automation of patch builds and rollouts.
+* Development for the IBM WebSphere MQ broker (ESQL), installation and configuration of queue managers, defect analysis.
+* Administration of IBM WebSphere Application Server, IBM WebSphere MQ and RHEL 7.
+* Achievements: a 10x reduction in the number of defects during release cycles thanks to DevOps, GitFlow and automated tests; as a team lead (2 people) brought one of the bank's subsystems into production.
+
+**Team Lead / Solution Architect (2018–2020)** — OFFLINE POS, lending through POS terminals.
+
+* Built a bank credit business application from scratch to market launch on the EFS platform, including integration with processing systems in the PCI DSS zone.
+* Achievements: on-time production launch; team processes built from scratch (Agile and DevOps practices, GitFlow); system architecture designed and part of the functionality implemented; effective communication with adjacent teams established.
+* Managed two teams of 18 people (backlog formation after discussing goals with the product owner, task control, planning and retrospectives), resolved architectural and infrastructure issues, controlled release movement across test environments, ensured information security compliance, and ran product demos for customers.
+
+**Product Owner / Team Lead / ITAL (2020)** — integration libraries for the bank's credit applications.
+
+* Team management (task and goal setting, control over the development process and completeness of solutions), architectural and infrastructure tasks, technical interviews and team building.
+
 </details>
 
 ---
 
-#### <a name="about-yourself_education"></a> Образование
+#### <a name="work-experience_step-5"></a> Developer → Information Security Specialist (RSREU / TBInform / 9-Bits)
 
-* 2007 - 2013:  
-    * вуз: РГРТУ (Рязанский Государственный радиотехнический университет);  
-    * факультет: ВТ (Факультет Вычислительной техники);  
-    * статус: специалист (студент);  
+Work at the university and in a small organisation: tasks ranging from user support to system architecture and DevOps.
 
-Преподавание:
-- ведение курсов по Oracle Siebel CRM  
-- преподавание в качестве ассистента на кафедре ВПМ (лекции, лабораторные, упражнения) составление программ обучения.  
+Period: 04.2009 — 04.2016
 
-Аспирантура:
-- проведение исследований в области применения методов искусственного интеллекта в системах обнаружения вторжений с целью повышения информационной безопасности   вычислительной сети (несколько публикаций в научных журналах и 1 в журнале ВАК).  
-Студент:  
-- установка и настройка системы VoIP asterisk (сервер функционирует на кафедре ИБ),  
-- исследование веб сервера на уязвимости и поиск методов повышения его защищенности (написана статья в сборник научных трудов РГРТУ),  
-- разработка и проведение лабораторных работ по IDS Snort, MSSQL, Metasploit.  
-- изучение средств виртуализации amazon aws, VMWare, OracleVirtualBox, GNS3.
-- администрирование серверов CentOS,FreeBSD,OpenSUSE,Ubuntu, Windows (xp-7, 2003-2008r2) на этих системах, в целях самообразования поднималось все, от контроллеров домена и ftp до систем мониторинга (zabbix) и систем безопасности (Snort, Cisco IPS).  
-до сих пор функционируют: asterisk (OpenSuSe), шлюз+фаерволл (ubuntu), vsftp (FreeBSD)  
-- поддержка работоспособности ЛВС общежития(сервер ubuntu, свичи dlink и rubitech).  
-- написание и защита дипломного проекта по внедрению SIEM "RSA enVision"  
+* Developed a diverse portfolio of applications including mobile apps (Android/iOS), an online game and security systems.
+* Administered cloud infrastructure (AWS) and automated deployments using Jenkins and Puppet.
+* Conducted security analysis and developed a processing protocol.
+
+<details><summary markdown="span">More details</summary>
+
+**RSREU — assistant at the Information Security department.** Lectures, labs and exercises, curriculum development; delivered courses on Oracle Siebel CRM.
+
+**TBInform — Information Security Engineer (2012–2014).** Responsible for the security of workstations and fuel-station management systems; deployed and commissioned SIEM systems.
+
+* Administration of Windows-based operating systems (XP, 7, 2003, 2008, 2008 R2).
+* Installation, maintenance, support and event analysis of security systems (IDS, IPS, IPC, SIEM).
+* Testing and implementation of information security systems in the company.
+
+**9-Bits — Developer (2014–2016).** A small company of 5 people.
+
+* Automation scripts in Bash, sh and Python.
+* An interactive online game (slot) built with jQuery.
+* Administration of CentOS and FreeBSD.
+* Amazon AWS work: administration of CentOS-based systems, setup of automated build systems (Jenkins), Puppet.
+* Mobile application development for Android and iPhone in C# and Java.
+* Reverse engineering of the Qiwi protocol and development of payment software for the company (for slot games).
+* Simple RESTful web services with Spring.
+
+</details>
 
 ---
 
-### <a name="hobbies"></a> Хобби
+### <a name="education"></a> Education
 
-Бокс, HEMA, параплан, практическая стрельба, мотокросс, виндсерф, вейкборд.
+* 2007 – 2013:
+    * University: Ryazan State Radio Engineering University (RSREU), Ryazan, Russia;
+    * Degree: Specialist in Mathematics;
+    * Department: Information Security;
+    * Diploma thesis: Implementation of "RSA enVision" in TBInform.
+
+<details><summary markdown="span">More details</summary>
+
+**Teaching**
+
+* Delivered courses on Oracle Siebel CRM.
+* Assistant at the Information Security department (lectures, labs, exercises), curriculum development.
+
+**Postgraduate research**
+
+* Research on the application of artificial intelligence methods in intrusion detection systems to improve the information security of a computer network (several publications in scientific journals and one in a journal from the Higher Attestation Commission list).
+
+**Student projects**
+
+* Deployed and configured an Asterisk VoIP system (the server still runs at the Information Security department).
+* Researched web server vulnerabilities and methods to improve its protection (an article was published in the RSREU scientific papers collection).
+* Developed and delivered lab work on Snort IDS, MSSQL and Metasploit.
+* Explored virtualization tools: Amazon AWS, VMware, Oracle VirtualBox, GNS3.
+* Administered CentOS, FreeBSD, OpenSUSE, Ubuntu and Windows servers (XP–7, 2003–2008 R2) — from domain controllers and FTP to monitoring (Zabbix) and security systems (Snort, Cisco IPS).
+* Supported the dormitory LAN (Ubuntu server, D-Link and Rubitech switches).
+* Wrote and defended the diploma project on implementing the RSA enVision SIEM.
+
+</details>
+
+---
+
+### <a name="tech-publications"></a> Tech publications
+
+Authored articles on [Habr.com](https://habr.com/) about architecture in FinTech (translated versions: LinkedIn articles).
+
+* About RBS in OTPBank
+* About PCI DSS
+* About Bank Architecture
+
+---
+
+### <a name="hobbies"></a> Hobbies
+
+Boxing, HEMA, paragliding, practical shooting, motocross, windsurfing, wakeboarding.
+
+---
+
+### <a name="download-cv"></a> Download CV (PDF)
+
+The current version of this CV as a PDF file (2 pages, English):
+
+**[Download CV_SviridovAlexander.pdf](./CV_SviridovAlexander.pdf)**
